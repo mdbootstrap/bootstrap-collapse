@@ -1,4 +1,4 @@
-# Free Bootstrap Collapse & Navigation Collection
+# Free Bootstrap Collapse & Components Collection
 
 Responsive collapse built with Bootstrap 5. Collapse panel, vertical collapse, collapsing divs, data-toggle usage, collapse button & more.
 
